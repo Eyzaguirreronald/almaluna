@@ -1,0 +1,8 @@
+{
+      "name": "Alma Luna",
+      "short_name": "Alma",
+      "start_url": ".",
+      "display": "standalone",
+      "background_color": "#ffffff",
+      "description": "Aplicación PWA de Alma Luna"
+    }
